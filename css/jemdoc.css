@@ -1,7 +1,7 @@
 /* Default css file for jemdoc. */
 
 table#tlayout {
-	max-width: 1080px;
+	max-width: 960px;
 	padding: auto;
 	margin: auto;
 	border: none;
